@@ -61,7 +61,7 @@ class Best_FAQ {
      * @since   1.0.0
      */
     private function load_dependencies() {
-        require_once( $this->inc . 'class-best-faq-admin.php' );
+        //require_once( $this->inc . 'class-best-faq-admin.php' );
         require_once( $this->inc . 'best-faq-shortcode.php' );
     }
 
