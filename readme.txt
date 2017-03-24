@@ -1,22 +1,27 @@
-=== Wp Best FAQ===
+=== WP Best FAQ ===
 Contributors: Pradeep chaturvedi,
-Version : 1.0.0
+Donate link: https://profiles.wordpress.org/pkcdeepu
+Tags: wp best, wp best faq, faq, toggle, faq plugin, frequently asked questions
+Requires at least: 3.8
+Tested up to: 4.7.2
+Stable tag: 3.8
 
 WP Best FAQ provides an easy way to add FAQ items to your website form backend and display in front using toggle .
 
 == Description ==
-Add easy way to display in front end creating faq post type and for displaying used simple jQuery toggle for open and closed with css.
+Add easy way to display in front end creating faq post type and for displaying used simple jQuery toggle for open and closed with css. It is compatabile to every browser except IE8. You can install/configure easly.
+Use the `[faq]` shortcode in a widget or on a post/page. 
 
 = Features =
 * Custom Post-Type driven
-* jQuery toggle or accordion display when using the shortcode
+* jQuery toggle display when using the shortcode
 
 
 == Installation ==
 
 You can download and install Wp Best FAQ using the built in WordPress plugin installer. If you download the plugin manually, make sure the files are uploaded to `/wp-content/plugins/wp-best-faq/`.
 
-Activate Wp-Best-FAQ in the "Plugins" admin panel using the "Activate" link.
+Activate WP-Best-FAQ in the "Plugins" admin panel using the "Activate" link.
 
 == Upgrade Notice ==
 
@@ -38,4 +43,6 @@ Feel free to open an issue or submit a pull request over at [Github] https://git
 1. Toggling display
 
 == Changelog ==
+= 1.0.0 =
+Initial Release
 
