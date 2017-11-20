@@ -3,7 +3,7 @@ Contributors: Pradeep chaturvedi,
 Donate link: https://profiles.wordpress.org/pkcdeepu
 Tags: wp best, wp best faq, faq, toggle, faq plugin, frequently asked questions
 Requires at least: 3.8
-Tested up to: 4.7.2
+Tested up to: 4.9
 Stable tag: 3.8
 
 WP Best FAQ provides an easy way to add FAQ items to your website form backend and display in front using toggle .
